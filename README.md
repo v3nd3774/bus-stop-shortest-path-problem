@@ -94,3 +94,5 @@ Original console content
     
 (solution input-one)
 ```
+
+### This is able to define the graph `G = (V, E)`
